@@ -1,0 +1,28 @@
+.jb-text {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+.jb-text p {
+  margin-top: -24px;
+  text-align: center;
+  font-size: 48px;
+  font-family: "Do Hyeon", sans-serif;
+  color: #ffffff;
+}
+
+video {
+  width: 100%;
+}
+.body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.jb-box {
+  width: 100%;
+  height: 200%;
+  overflow: hidden;
+  margin: 0px auto;
+  position: relative;
+}
